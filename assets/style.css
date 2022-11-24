@@ -26,3 +26,13 @@ h1 {
   h3 {    
     font-family: sans-serif;
   }
+  p {
+    line-height: 2;
+    width: 40%;
+    margin: auto;
+  }
+ 
+  .listings{
+    display: flex;
+    display: inline-block; 
+  }
