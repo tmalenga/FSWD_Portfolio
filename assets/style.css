@@ -21,7 +21,7 @@ h1 {
   h2 {
     color: #2d6868;    
     font-size: 2.5rem; 
-    padding: 55px;
+    padding: 35px;
     
   }
   h3 {    
@@ -35,7 +35,7 @@ h1 {
   
   .main-container {
     padding: 10px;
-    margin: 50px 0;
+    margin: 7px 0;
   }
   
   p {
@@ -46,5 +46,20 @@ h1 {
  
   .listings{
     display: flex;
-    display: inline-block; 
+    display: inline-block;
+    padding: 15px;
   }
+
+  a{
+    color: #11999E;
+    
+  }
+  
+  a:hover {
+    color: purple;
+  }
+
+  img{
+    width: 20rem;
+  }
+  
