@@ -1,6 +1,16 @@
 body{
-    background-color: blueviolet;
+    background-color: rgb(168, 155, 180);
     color: black;
     margin: 0;
     text-align: center; 
 }
+h1 {
+    font-size: 5.0rem;
+    margin: 35px auto 0 auto;
+    font-family: cursive;
+  }
+  .nav-item {
+    display: flex;
+    display: inline-block;
+    padding: 18px;
+  }
