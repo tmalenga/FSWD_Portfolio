@@ -50,6 +50,11 @@ h1 {
     padding: 15px;
   }
 
+  .listings >*{
+    margin: 5px;
+    padding: 5px;
+  }
+
   a{
     color: #11999E;
     
@@ -61,5 +66,23 @@ h1 {
 
   img{
     width: 20rem;
+  }
+
+  .contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+  } 
+  
+  .contactForm{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 35px;
+  }
+  .contactForm >*{
+    display: flex;
+    margin: 5px;
+    padding: 5px;
+
   }
   
