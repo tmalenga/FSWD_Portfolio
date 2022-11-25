@@ -12,8 +12,11 @@ N/A
 
 - Upon opening the page you will see the landing page for my personal website. ![alt text](assets/landing_page.png)
 - User will bwill be able to navigate to the section of their choosing using the Nav bar or by scrolling. 
-- 
-- 
+- User can fill out contact form to enter their username and password
+
+## Credits
+
+- <a href="https://www.flaticon.com/free-stickers/profile" title="profile stickers">Profile stickers created by Stickers - Flaticon</a>
 
 ## License
 
